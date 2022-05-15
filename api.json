@@ -1,0 +1,36 @@
+{
+    "animales" : [
+        { "id" : 1, "nombre" : "Vaquita Marina" },
+        { "id" : 2, "nombre" : "Totoaba"},
+        { "id" : 3, "nombre" : "Tortuga carey"},
+        { "id" : 4, "nombre" : "Ballena azul"},
+        { "id" : 5, "nombre" : "León Marino de Steller" },
+        { "id" : 6, "nombre" : "Rorcual común"},
+        { "id" : 7, "nombre" : "Tiburón Martillo Gigante" },
+        { "id" : 8, "nombre" : "Delfín de Cabeza Blanca" }
+    ],
+"posts" : [
+    { "id" : 1, "nombre cientifico" : "Phocoena Sinus"},
+    { "id" : 2, "nombre cientifico" : "Totoaba macdonaldi" },
+    { "id" : 3, "nombre cientifico" : "Eretmochelys imbricata" },
+    { "id" : 4, "nombre cientifico" : "Balaenoptera musculus" },
+    { "id" : 5, "nombre cientifico" : "Eumetopias Jubatus" },
+    { "id" : 6, "nombre cientifico" : "Balaenoptera physalus" },
+    { "id" : 7, "nombre cientifico" : "Sphyrna mokarran"},
+    { "id" : 8, "nombre cientifico" : "Cephalorhynchus hectori" }
+    ],
+
+    "comentarios" : [
+        { "id" :1, "mensaje": "Se estima que la población se reduce hasta el 15% cada año"},
+        { "id" :2, "mensaje": "NOM-059-SEMARNAT-2010 en peligro de extinción (P) se encuentra en la lista roja de especies amenazadas"},
+        { "id" :3, "mensaje": "La población total de esta especie ha disminuido hasta un 80% en los últimos años debido a la pesca desmesurada en China y Japón"},
+        { "id" :4, "mensaje": "Estima la Unión Internacional para la Conservación de la Naturaleza (UICN),  que hay entre 10 mil a 25 mil ejemplares"},
+        { "id" :5, "mensaje": "La pesca excesiva de los nativos alaskeños y canadienses han disminuido su población hasta un 60% desde 1960"},
+        { "id" :6, "mensaje": "Ha sufrido de pesca desmedida al punto en que su población total ronda entre los 100 mil y 119 mil ejemplares"},
+        { "id" :7, "mensaje": "Es cazado ilegalmente por su aleta valiosa en el mercado asiático; el proceso es cruel ya que la aleta es cortada mientras el tiburón sigue respirando"},
+        { "id" :8, "mensaje": "Departamento de Conservación de Nueva Zelanda reporta que sólo quedan 55 delfines de esta especie, siendo común verlos por las costas mexicanas"}
+
+    ]
+
+    
+}
